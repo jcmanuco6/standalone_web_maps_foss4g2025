@@ -155,7 +155,7 @@ After completing the workshop, feel free to:
 
 ## License
 
-[Add your license information here - consider open source licensing for workshop materials]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Workshop Instructor
 
